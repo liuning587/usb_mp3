@@ -273,9 +273,9 @@ void Delay(volatile uint32_t nTime) {
 /*
  * Dummy function to avoid compiler error
  */
-//void _init() {
-//
-//}
+void _init() {
+
+}
 
 /*
  * Taken from
